@@ -5,5 +5,5 @@ Calibrating Confidence in Algorithmic Trading: An Analysis of Ordinal Stock Tren
 This project is dependent on some external libraries that should be installed:
 
 ```bash
-pip install yfinance pandas numpy ta matplotlib
+pip install -r requirements.txt
 ```
